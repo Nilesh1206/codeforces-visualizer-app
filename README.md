@@ -1,3 +1,9 @@
+
+
+https://user-images.githubusercontent.com/66791178/156099381-9236c74f-2559-4e06-8e02-430d88134787.mp4
+
+
+
 An android app that you can use to stalk anybody on Codeforces. Just enter the handle and you can get to know the User Information, Rating Graph, Rated Contest Details, Problems Solved by 'Difficulty' and 'Index' of that user.
 
 # Screens
